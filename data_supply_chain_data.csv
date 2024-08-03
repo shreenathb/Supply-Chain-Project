@@ -1,0 +1,13 @@
+id,Type,City,Address
+1,Distribution Centre,Pune,"Warje, Pune, Maharashtra 411058, India"
+2,Distribution Centre,Mumbai,"Shivaji Park, Dadar West, Mumbai, Maharashtra 400028, India"
+3,Distribution Centre,Chennai,"Boat Club Road, Boat Club, Chennai, Tamil Nadu 600028, India"
+4,Store,Pune - Baner,"Veritas, Baner Road, Baner, Pune, Maharashtra 411045, India"
+5,Store,Pune - Kothrud,"Prabhat Road, Kothrud, Pune, Maharashtra 411038, India"
+6,Store,Churchgate,"Wankhede Stadium, D Road, Marine Lines, Mumbai, Maharashtra 400020, India"
+7,Store,Chennai,"Adyar, Chennai, Tamil Nadu 600020, India"
+8,Home,Pune,Pune
+9,Home,Mumbai,Mumbai
+10,Home,Delhi,Delhi
+11,Home,Bangalore,Bangalore
+12,Home,Kolkatta,Kolkatta
